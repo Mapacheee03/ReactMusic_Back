@@ -1,0 +1,398 @@
+[
+  {
+    "nombre": "Ed Maverick",
+    "genero": "Folk",
+    "albumes": [
+      {
+        "titulo": "Eduardo",
+        "canciones": [
+          {
+            "titulo": "Acurrucar",
+            "duracion": 180,
+            "url": "url-acurrucar.mp3"
+          },
+          {
+            "titulo": "Gente",
+            "duracion": 200,
+            "url": "url-gente.mp3"
+          },
+          {
+            "titulo": "Niño",
+            "duracion": 190,
+            "url": "url-nino.mp3"
+          },
+          {
+            "titulo": "Nos Queda Mucho Dolor por Recorrer",
+            "duracion": 220,
+            "url": "url-nosqueda.mp3"
+          },
+          {
+            "titulo": "Gracias",
+            "duracion": 185,
+            "url": "url-gracias.mp3"
+          }
+        ]
+      },
+      {
+        "titulo": "Mix pa’ llorar en tu cuarto",
+        "canciones": [
+          {
+            "titulo": "Fuentes de Ortiz",
+            "duracion": 210,
+            "url": "url-fuentes.mp3"
+          },
+          {
+            "titulo": "Karpe Diem",
+            "duracion": 175,
+            "url": "url-karpe.mp3"
+          },
+          {
+            "titulo": "Quiero",
+            "duracion": 195,
+            "url": "url-quiero.mp3"
+          },
+          {
+            "titulo": "Siempreestoypati",
+            "duracion": 190,
+            "url": "url-siempre.mp3"
+          },
+          {
+            "titulo": "Acurrucar",
+            "duracion": 180,
+            "url": "url-acurrucar2.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Kevin Kaarl",
+    "genero": "Folk",
+    "albumes": [
+      {
+        "titulo": "San Lucas",
+        "canciones": [
+          {
+            "titulo": "Vámonos a Marte",
+            "duracion": 200,
+            "url": "url-marte.mp3"
+          },
+          {
+            "titulo": "Colapso",
+            "duracion": 190,
+            "url": "url-colapso.mp3"
+          },
+          {
+            "titulo": "San Lucas",
+            "duracion": 180,
+            "url": "url-sanlucas.mp3"
+          },
+          {
+            "titulo": "Si Supieras",
+            "duracion": 195,
+            "url": "url-sisupieras.mp3"
+          },
+          {
+            "titulo": "Me Vas a Ver",
+            "duracion": 185,
+            "url": "url-mevas.mp3"
+          }
+        ]
+      },
+      {
+        "titulo": "Paris Texas",
+        "canciones": [
+          {
+            "titulo": "Te Quiero Tanto",
+            "duracion": 200,
+            "url": "url-tequiero.mp3"
+          },
+          {
+            "titulo": "Vienes y Te Vas",
+            "duracion": 185,
+            "url": "url-vienes.mp3"
+          },
+          {
+            "titulo": "Cuéntame una Historia de Amor",
+            "duracion": 210,
+            "url": "url-cuentame.mp3"
+          },
+          {
+            "titulo": "Toda Esta Ciudad",
+            "duracion": 195,
+            "url": "url-ciudad.mp3"
+          },
+          {
+            "titulo": "Vuelve",
+            "duracion": 180,
+            "url": "url-vuelve.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Gera MX",
+    "genero": "Rap",
+    "albumes": [
+      {
+        "titulo": "No Teníamos Nada, Pero Éramos Felices",
+        "canciones": [
+          {
+            "titulo": "Botella Tras Botella",
+            "duracion": 200,
+            "url": "url-botella.mp3"
+          },
+          {
+            "titulo": "Te Extraño",
+            "duracion": 185,
+            "url": "url-extraño.mp3"
+          },
+          {
+            "titulo": "Sigo Esperándote",
+            "duracion": 195,
+            "url": "url-esperando.mp3"
+          },
+          {
+            "titulo": "Nadie te Va a Querer",
+            "duracion": 190,
+            "url": "url-nadie.mp3"
+          },
+          {
+            "titulo": "El Rincón",
+            "duracion": 180,
+            "url": "url-rincon.mp3"
+          }
+        ]
+      },
+      {
+        "titulo": "Los Niños Grandes No Juegan",
+        "canciones": [
+          {
+            "titulo": "Dinero En Mano",
+            "duracion": 180,
+            "url": "url-dinero.mp3"
+          },
+          {
+            "titulo": "Lluvia",
+            "duracion": 190,
+            "url": "url-lluvia.mp3"
+          },
+          {
+            "titulo": "Buenas",
+            "duracion": 170,
+            "url": "url-buenas.mp3"
+          },
+          {
+            "titulo": "Me Tienes Mal",
+            "duracion": 185,
+            "url": "url-mal.mp3"
+          },
+          {
+            "titulo": "Te Vi",
+            "duracion": 180,
+            "url": "url-tevi.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Nampa Básico",
+    "genero": "Rap Romántico",
+    "albumes": [
+      {
+        "titulo": "Extrañándote",
+        "canciones": [
+          {
+            "titulo": "Extrañándote",
+            "duracion": 185,
+            "url": "url-extra.mp3"
+          },
+          {
+            "titulo": "Carta Para Ti",
+            "duracion": 190,
+            "url": "url-carta.mp3"
+          },
+          {
+            "titulo": "Olvidarte Es Difícil",
+            "duracion": 195,
+            "url": "url-olvidarte.mp3"
+          },
+          {
+            "titulo": "Desde el Primer Beso",
+            "duracion": 180,
+            "url": "url-primerbeso.mp3"
+          },
+          {
+            "titulo": "4:43",
+            "duracion": 183,
+            "url": "url-443.mp3"
+          }
+        ]
+      },
+      {
+        "titulo": "Lo Más Duro",
+        "canciones": [
+          {
+            "titulo": "Reloj",
+            "duracion": 180,
+            "url": "url-reloj.mp3"
+          },
+          {
+            "titulo": "Por Amor",
+            "duracion": 185,
+            "url": "url-poramor.mp3"
+          },
+          {
+            "titulo": "Vuelve",
+            "duracion": 190,
+            "url": "url-vuelvenampa.mp3"
+          },
+          {
+            "titulo": "Me Faltas Tú",
+            "duracion": 195,
+            "url": "url-faltas.mp3"
+          },
+          {
+            "titulo": "Dejarte Ir",
+            "duracion": 185,
+            "url": "url-dejarte.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Junior H",
+    "genero": "Corridos Tumbados",
+    "albumes": [
+      {
+        "titulo": "Atrapado en un Sueño",
+        "canciones": [
+          {
+            "titulo": "Ella",
+            "duracion": 180,
+            "url": "url-ella.mp3"
+          },
+          {
+            "titulo": "Mente Positiva",
+            "duracion": 185,
+            "url": "url-mente.mp3"
+          },
+          {
+            "titulo": "Disfruto Lo Malo",
+            "duracion": 190,
+            "url": "url-malo.mp3"
+          },
+          {
+            "titulo": "Las 3 Torres",
+            "duracion": 195,
+            "url": "url-torres.mp3"
+          },
+          {
+            "titulo": "1004 Kilómetros",
+            "duracion": 180,
+            "url": "url-1004km.mp3"
+          }
+        ]
+      },
+      {
+        "titulo": "Sad Boyz 4 Life",
+        "canciones": [
+          {
+            "titulo": "Triste",
+            "duracion": 175,
+            "url": "url-triste.mp3"
+          },
+          {
+            "titulo": "A Tu Manera",
+            "duracion": 180,
+            "url": "url-manera.mp3"
+          },
+          {
+            "titulo": "Se Amerita",
+            "duracion": 190,
+            "url": "url-amerita.mp3"
+          },
+          {
+            "titulo": "3 Doritos Después",
+            "duracion": 185,
+            "url": "url-doritos.mp3"
+          },
+          {
+            "titulo": "12 P.M.",
+            "duracion": 180,
+            "url": "url-12pm.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Natanael Cano",
+    "genero": "Corridos Bélicos",
+    "albumes": [
+      {
+        "titulo": "Corridos Tumbados",
+        "canciones": [
+          {
+            "titulo": "Soy el Diablo",
+            "duracion": 180,
+            "url": "url-diablo.mp3"
+          },
+          {
+            "titulo": "Amor Tumbado",
+            "duracion": 185,
+            "url": "url-amor.mp3"
+          },
+          {
+            "titulo": "El Drip",
+            "duracion": 190,
+            "url": "url-drip.mp3"
+          },
+          {
+            "titulo": "Porte Exuberante",
+            "duracion": 195,
+            "url": "url-porte.mp3"
+          },
+          {
+            "titulo": "F1",
+            "duracion": 180,
+            "url": "url-f1.mp3"
+          }
+        ]
+      },
+      {
+        "titulo": "NataKong",
+        "canciones": [
+          {
+            "titulo": "CH",
+            "duracion": 190,
+            "url": "url-ch.mp3"
+          },
+          {
+            "titulo": "Pacas Verdes",
+            "duracion": 185,
+            "url": "url-pacas.mp3"
+          },
+          {
+            "titulo": "Diamantes",
+            "duracion": 180,
+            "url": "url-diamantes.mp3"
+          },
+          {
+            "titulo": "Lujos y Secretos",
+            "duracion": 195,
+            "url": "url-lujos.mp3"
+          },
+          {
+            "titulo": "En Corto",
+            "duracion": 180,
+            "url": "url-encorto.mp3"
+          }
+        ]
+      }
+    ]
+  }
+]
